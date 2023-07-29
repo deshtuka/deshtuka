@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 ### ⚙️ GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/deshtuka">
-<img height="180em" width="400em" align="left" alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=deshtuka&count_private=true&show_icons=true&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img height="180em" width="350em" align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshtuka&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=blueberry"/>
-</a>
+  <a href="https://github.com/deshtuka">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deshtuka&theme=blueberry"/>
+  </a>
+</p>
+<p align="left">
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deshtuka&theme=blueberry"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshtuka&count_private=true&langs_count=8&layout=compact&theme=blueberry"/>
 </p>
